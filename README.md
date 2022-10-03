@@ -11,12 +11,16 @@
 - 使用 Pyinsteller 打包好的 ExE文件
 
 ```
+
 双击ExE文件启动即可
+
 ```
 - 使用 pip
 
 ```
-pip install -r re
+
+pip install -r requirements.txt
+
 ```
 
 #### 注意
