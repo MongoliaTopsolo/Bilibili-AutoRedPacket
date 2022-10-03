@@ -20,12 +20,12 @@
 双击ExE文件启动即可
 
 ```
-- 使用 pip
+- 使用 Python 启动
 
 ```
 
 pip install -r requirements.txt
-
+python RedPacket.py
 ```
 
 #### 注意
