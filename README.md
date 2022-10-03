@@ -29,7 +29,7 @@ python RedPacket.py
 
 #### 注意
 
-使用非ExE文件启动,且仅安装了Python-Playwright。第一次启动会自动安装Playwright浏览器组件。
+ - 使用非ExE文件启动,且仅安装了Python-Playwright。第一次启动会自动安装Playwright浏览器组件。
 
 ### 配置项
 
