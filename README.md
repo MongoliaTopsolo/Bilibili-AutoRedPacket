@@ -9,7 +9,7 @@
 
 ### 简介
 
-自动搜索有红包直播间,并自动毛取。基于Playwright开发(指堆屎山)。
+ 自动搜索有红包直播间,并自动毛取。基于Playwright开发(指堆屎山)。
 
 ### 使用
 
@@ -23,7 +23,6 @@
 - 使用 Python 启动
 
 ```
-
 pip install -r requirements.txt
 python RedPacket.py
 ```
