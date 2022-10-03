@@ -6,6 +6,10 @@
 <h1 align="center">- Bilibili AutoRedPacket -</h1>
 <h4 align="center"> _✨ B站直播间自动抢红包 ✨_ </h4>
 
+###简介
+
+自动搜索有红包直播间,并自动毛取。基于Playwright开发(指堆屎山)。
+
 ### 使用
 
 - 使用 Pyinsteller 打包好的 ExE文件
