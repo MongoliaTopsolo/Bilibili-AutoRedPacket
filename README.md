@@ -1,7 +1,7 @@
-# Bilibili-AutoRedPacket
 <div align="center">
-    <img src="https://cdn.kagamiz.com/Bilibili-Toolkit/bilibili.png" width="300">
-
+<p>   
+   <img src="https://cdn.kagamiz.com/Bilibili-Toolkit/bilibili.png" width="300">
+</p>
 # Bilibili-AutoRedPacket
 
 _✨ B站直播间自动抢红包 ✨_
