@@ -2,9 +2,10 @@
 <p>   
    <img src="https://cdn.kagamiz.com/Bilibili-Toolkit/bilibili.png" width="300">
 </p>
-</div>
 <h1 align="center">- Bilibili AutoRedPacket -</h1>
 <h4 align="center"> _✨ B站直播间自动抢红包 ✨_ </h4>
+</div>
+
 
 ###简介
 
