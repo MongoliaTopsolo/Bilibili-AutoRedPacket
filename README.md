@@ -2,17 +2,10 @@
 <p>   
    <img src="https://cdn.kagamiz.com/Bilibili-Toolkit/bilibili.png" width="300">
 </p>
-# Bilibili-AutoRedPacket
-
-_✨ B站直播间自动抢红包 ✨_
-
-<p align="center">
-  <a href="https://jq.qq.com/?_wv=1027&k=wDVNrMdr">
-    <img src="https://img.shields.io/badge/QQ%E7%BE%A4-682145034-orange" alt="qq group">
-  </a>
-</p>
-
 </div>
+
+# Bilibili-AutoRedPacket
+ _✨ B站直播间自动抢红包 ✨_
 
 ### 使用
 
