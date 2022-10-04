@@ -61,6 +61,11 @@ python RedPacket.py
  - 说明：设置浏览器是否在前台显示
 </details>
 
+### 功能
+ - 自动搜索有红包直播间
+ - 自动抢红包,可跳过指定价值的红包
+ - 自动抢完取关并删除关注时的自动回复
+
 ### 特别感谢
 
 - [B站自动抢红包](https://greasyfork.org/zh-CN/scripts/439169-b%E7%AB%99%E7%9B%B4%E6%92%AD%E8%87%AA%E5%8A%A8%E6%8A%A2%E7%BA%A2%E5%8C%85) B站直播自动抢红包
