@@ -1,0 +1,8 @@
+Brotli==1.0.9
+httpx==0.23.0
+playwright==1.26.1
+pyfiglet==0.8.post1
+pywin32==304
+requests_toolbelt==0.9.1
+terminal_layout==2.1.2
+ujson==5.1.0
